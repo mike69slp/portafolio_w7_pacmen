@@ -75,4 +75,4 @@ Future improvements:
 [license-url]: https://github.com/mike69slp/portafolio_w7_pacmen/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/miguel-esparza-3403306a
-[product-screenshot]: https://github.com/mike69slp/portafolio_w7_pacmen/images/blob/main/pacman1.png
+[product-screenshot]: https://github.com/mike69slp/portafolio_w7_pacmen/blob/main/images/PacMan1.png
